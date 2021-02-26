@@ -1,2 +1,2 @@
-# big-data-analytics-project
-this project contains python and spark programming for FIFA-19 dataset
+# Data Analytics Project.
+Python and Spark programming used for building Big Data analytics project.
